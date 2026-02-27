@@ -44,24 +44,24 @@ if status == "Pass":
     
     ##OUTPUT##########
     
-    # Enter Student Name: Karl
-    # Enter Marks in Maths: 76
-    # Enter Marks in Science: 38
-    # Enter Marks in English: 98
+    Enter Student Name: Karl
+    Enter Marks in Maths: 76
+    Enter Marks in Science: 38
+    Enter Marks in English: 98
 
-    # --- Student Result ---
-    # Student Name: Karl
-    # Total Marks: 212.0
-    # Average Percentage: 70.67%
-    # Status: Fail 
+    --- Student Result ---
+    Student Name: Karl
+    Total Marks: 212.0
+    Average Percentage: 70.67%
+    Status: Fail 
     
-    # Enter Student Name: Karl
-    # Enter Marks in Maths: 76
-    # Enter Marks in Science: 38
-    # Enter Marks in English: 98
+    Enter Student Name: Karl
+    Enter Marks in Maths: 76
+    Enter Marks in Science: 38
+    Enter Marks in English: 98
 
-    # --- Student Result ---
-    # Student Name: Karl
-    # Total Marks: 212.0
-    # Average Percentage: 70.67%
-    # Status: Fail
+    --- Student Result ---
+    Student Name: Karl
+    Total Marks: 212.0
+    Average Percentage: 70.67%
+    Status: Fail
